@@ -65,3 +65,14 @@ Random Forest combines the results of multiple decision trees to improve predict
 - This project was done as part of an academic learning journey, and I’ve referred to several online tutorials, documentation, and community insights while building and refining the solution.
 - Tutorials and discussions from Kaggle, Stack Overflow, Medium blogs, Youtube and GitHub repos.
 - Community content that helped clarify ML workflows and SQL design.
+
+
+![image](https://github.com/user-attachments/assets/4c8ae087-31f9-455d-af6b-01f3bb309b90)
+
+
+![image](https://github.com/user-attachments/assets/664d7c6f-adc7-476b-a57e-3dc6ca8a9976)
+
+
+![image](https://github.com/user-attachments/assets/2d358923-ba39-4a9d-bf05-619512d7b490)
+
+![image](https://github.com/user-attachments/assets/afdcf1c9-f97a-4685-b0b9-88b005c7a14a)
